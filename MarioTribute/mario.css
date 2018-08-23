@@ -1,0 +1,30 @@
+body{
+    background-color: hotpink;
+    color : orchid;
+}
+
+header{ 
+    background-color: rgb(30,87,127);
+    background-color: rgb(255,57,57);
+}
+
+section{
+    background-color: grey
+}
+section header{
+    color: #00ae00
+}
+
+aside{
+    background-color: #0273024a
+}
+
+footer{
+    background-color: purple
+}
+nav{
+    background-color:#007b4a
+}
+h3{
+    color: #00deff
+}
