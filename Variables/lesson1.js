@@ -24,12 +24,12 @@ var userName
 
 
 function getInfo(){
-    userName=('#userName').val();
+    userName=$('#userName').val();
 }
 
 function showInfo(){
     getInfo();
     var message ='Hello' + userName +',glad to meet you!';
-    
+
     $('#output').text(message).show().animate({'top':'opx','opacity':'1'} 'slow');
 }
