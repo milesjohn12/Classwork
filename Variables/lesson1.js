@@ -31,5 +31,5 @@ function showInfo(){
     getInfo();
     var message ='Hello' + userName +',glad to meet you!';
 
-    $('#output').text(message).show().animate({'top':'opx','opacity':'1'} 'slow');
+    $('#output').text(message).show().animate({'top':'0px','opacity':'1'}, 'slow');
 }
