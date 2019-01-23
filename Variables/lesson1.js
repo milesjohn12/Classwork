@@ -13,7 +13,7 @@ Local Variables - the variable can only be used in the section it was defined
 $(document).ready(function(){
 
     $('#button').click(function(){
-        showInfo();
+        insertInfo();
     })
 
 })
